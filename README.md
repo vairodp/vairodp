@@ -6,6 +6,8 @@
 
 🌱 Currently learning **Natural Language Processing**
 
+💬 Ask me about whatever you want, I'm happy to help
+
 ### How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vairo-di-pasquale//)
