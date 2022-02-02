@@ -1,5 +1,7 @@
 ## Yo, I'm Vairo!
 
+✈️ Currently I'm an exchange student, studying Artificial Intelligence and Computer Engineering at [Mid Sweden University, Sweden](https://www.miun.se/en/).
+
 🎓 Enrolled in an MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
 🔭 Professional interests: Deep Learning and Machine Learning problems
