@@ -4,7 +4,7 @@
 
 🔭 Professional interests: Deep Learning and Machine Learning problems
 
-🌱 Currently learning **Generative AI**
+🌱 Currently focusing on **Generative AI**
 
 💬 Ask me about whatever you want, I'm happy to help
 
