@@ -17,4 +17,4 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.vairodp.com)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vairodp/vairodp)
+![](https://komarev.com/ghpvc/?username=vairodp)
