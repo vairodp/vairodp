@@ -1,12 +1,17 @@
 ## Yo, I'm Vairo!
 
-🎓 Enrolled in an MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html)
+🎓 Master's in Artificial Intelligence from [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html), Bachelor's in Computer Science.
 
-🔭 Professional interests: Deep Learning and Machine Learning problems
+🔭 6+ yrs in ML, DL, NLP, RL. Now an AI/ML Software Engineer, integrating NLP and CV models to boost tech stacks.
 
-🌱 Currently focusing on **Generative AI**
+👨‍💻 Active contributor to LangChain, OpenAI's Gym, Minigrid, Procgen. Core member of Google Developer Core Team, AI mentor.
 
-💬 Ask me about whatever you want, I'm happy to help
+📄 Authored a peer-reviewed paper in 2021, and more yet to come!
+
+🕵️ Dive deeper into my journey [here](https://www.vairodp.com/docs/cv.pdf).
+
+💬 Got questions or need help? Feel free to reach out!
+
 
 ### How to reach me:
 
