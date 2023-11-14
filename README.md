@@ -2,7 +2,7 @@
 
 🎓 Master's in Artificial Intelligence from [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html), Bachelor's in Computer Science.
 
-🔭 6+ yrs in ML, DL, NLP, RL. Now an AI/ML Software Engineer, integrating NLP and CV models to boost tech stacks.
+🔭 6+ yrs playing with ML, DL, NLP, RL. Now an AI/ML Software Engineer, integrating NLP and CV models to boost tech stacks.
 
 👨‍💻 Active contributor to LangChain, OpenAI's Gym, Minigrid, Procgen. Core member of Google Developer Core Team, AI mentor.
 
